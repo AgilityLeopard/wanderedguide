@@ -13,7 +13,7 @@
     ],
     "version": "0.1.0",
     "url": "https://github.com/AgilityLeopard/wanderedguide",
-    "manifest": "https://github.com/AgilityLeopard/wanderedguide/releases/latest/download/module.json",
+    "manifest": "https://raw.githubusercontent.com/AgilityLeopard/wanderedguide/main/module.json",
     "download": "https://github.com/AgilityLeopard/wanderedguide/releases/download/0.1.0/wanderedguide-main.zip",
     "license": "./LICENSE"
 }
